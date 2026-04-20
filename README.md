@@ -46,7 +46,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://drive.google.com/file/d/1lWS8nmijQNZCqJrLC6XRCw5Ebyo2Bhsf/view?usp=sharing">Video Walkthrough Here!</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ezGif
