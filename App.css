@@ -1,0 +1,22 @@
+ul {
+  list-style: none;
+}
+
+.gallery{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 1em;
+}
+.crewmate-card{
+  border-radius: 8px;
+  padding: 1em;
+  padding-bottom: 2.5em;
+
+  line-height: 1.5;
+  color: white;
+}
+
+.rainbow{
+  background-image: linear-gradient(to right, red, yellow, green, blue, purple);
+}
+
