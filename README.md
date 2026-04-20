@@ -47,6 +47,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <a href="https://drive.google.com/file/d/1lWS8nmijQNZCqJrLC6XRCw5Ebyo2Bhsf/view?usp=sharing">Video Walkthrough Here!</a>
+<a href="https://drive.google.com/file/d/1E5fvd7RX57PGImQ8MttmbfyVg5ZzxVgi/view?usp=sharing">Deleting Crewmates Gif</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ezGif
